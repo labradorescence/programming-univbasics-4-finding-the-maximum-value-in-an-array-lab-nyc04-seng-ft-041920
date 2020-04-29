@@ -1,4 +1,4 @@
-def find_max_value(array)
+def find_max_value(arr)
   # Add your solution here
     max = 0
     i = 0
