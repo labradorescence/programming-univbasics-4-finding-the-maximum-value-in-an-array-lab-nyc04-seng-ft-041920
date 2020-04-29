@@ -11,6 +11,3 @@ def find_max_value(arr)
     end
     return max
   end
-
-
-  
